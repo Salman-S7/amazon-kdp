@@ -1,69 +1,81 @@
 # A1 - Bible Word Search Large Print
 
-Production has started for the first Amazon KDP puzzle pilot.
+A1 has moved to the **v2 retail interior**.
 
-## Current proof build
+## Current build
 
 - Trim: 8.5 x 11 in
 - Interior: black-and-white, no bleed
-- Page count: 104
+- Page count: 132
 - Puzzle count: 80
 - Grid: 16 x 16
-- Words per puzzle: 15
+- Main words per puzzle: 15
 - Difficulty mix: 56 Relaxed / 16 Medium / 8 Challenge
-- Layout: one puzzle per page
-- Solutions: 20 pages, four solutions per page
-- Puzzle letters: 18 pt
-- Word lists: 18 pt target, with limited fit adjustment for unusually long entries
+- Bonus challenges: 8 (one extra validated word on each Challenge puzzle)
+- Solutions: 40 pages, two enlarged solutions per page
+- Bible-focus reference + original context on every puzzle
+- Completion tracking on every puzzle
+- Three-page puzzle index
+- Five section-opening pages
 
-## Commercial promise
+## Five-part reader journey
 
-Actually readable large-print faith puzzles with clean layouts, accurate solutions, and meaningful themes.
+1. Beginnings & Foundations - puzzles 1-14
+2. Heroes, Kings & Prophets - puzzles 15-41
+3. The Life & Teachings of Jesus - puzzles 42-56
+4. The Early Church & Mission - puzzles 57-62
+5. Letters, Revelation & Faith - puzzles 63-80
 
-## Content scope
+## Editorial upgrades from v1
 
-The 80 puzzles move through:
-1. Old Testament foundations
-2. Gospels and the life of Jesus
-3. Acts, the early church, and New Testament letters
-4. Faith and encouragement themes
-
-No modern Bible-translation passages are reproduced. Content uses biblical names, places, events, and general faith concepts.
+The v2 pass tightened vocabulary and removed several weak or potentially misleading choices. Examples:
+- `Priest Eli` -> `Eli`
+- Samuel uses `Sanctuary` instead of `Temple`
+- Job now uses more specific names and imagery such as Eliphaz, Bildad, Zophar, Elihu, and Whirlwind
+- `Books of the New Testament` is reframed as `New Testament Overview`
+- `Fruit of the Spirit` is reframed as `Fruit of the Spirit & Christian Virtues` so the nine named qualities are distinguished from related terms
 
 ## Production method
 
-1. Curated theme and vocabulary list.
+1. Curated theme, reference, context, and vocabulary data.
 2. Deterministic algorithmic 16 x 16 grid generation.
 3. Exact coordinates stored for every answer.
-4. Every listed answer independently validated against the final grid.
-5. Accidental duplicate answer occurrences rejected.
-6. Duplicate grids rejected.
-7. Solutions generated from stored coordinates.
-8. PDF rendered and sampled visually before proofing.
+4. Challenge puzzles place one additional named bonus word.
+5. Every intended answer path is independently validated.
+6. Accidental duplicate intended-word occurrences are rejected.
+7. Duplicate grids are rejected.
+8. Solutions are generated from stored coordinates.
+9. PDF is rendered and visually sampled before proofing.
+
+## Rights/content approach
+
+The interior uses biblical names, places, events, book names, passage references, and original summaries. It does not reproduce passages from a modern Bible translation.
 
 ## Status
 
 Completed:
-- [x] 80-theme content architecture
-- [x] 1,200 word placements
-- [x] puzzle generation
-- [x] solution generation
-- [x] automated puzzle QA
-- [x] 104-page v1 interior proof
-- [x] rendered layout spot-check
-- [x] KDP trim/margin compatibility check
+- [x] v2 reader-experience redesign
+- [x] five-part content architecture
+- [x] editorial vocabulary cleanup
+- [x] Bible references and original context for all 80 puzzles
+- [x] 80 regenerated puzzle grids
+- [x] 8 bonus-word challenges
+- [x] solution regeneration
+- [x] automated answer-path QA
+- [x] 132-page v2 interior
+- [x] visual spot-check across front matter, section pages, puzzles, bonus puzzles, and solutions
+- [x] PDF preflight / font embedding check
 
 Remaining before publication:
-- [ ] full editorial/factual pass of all 80 word lists
-- [ ] final imprint and copyright text
-- [ ] cover production
-- [ ] title/subtitle and metadata research pass
-- [ ] keywords and categories
-- [ ] current printing-cost/royalty calculation and final price
-- [ ] KDP previewer check
+- [ ] final human theological/editorial review of all 80 references, summaries, and word lists
+- [ ] finalize publisher/imprint identity if desired
+- [ ] cover production using locked page count and paper choice
+- [ ] metadata / keyword / category research pass
+- [ ] current printing-cost / royalty calculation and final price
+- [ ] KDP Previewer check
 - [ ] physical proof order and inspection
-- [ ] final AI-content disclosure entry during KDP setup
+- [ ] final AI-content disclosure during KDP setup
 
 ## Next production gate
 
-Do not upload this v1 proof directly. The next step is an editorial pass across all puzzle themes and word lists, then cover/metadata production and physical proofing.
+Treat v2 as the design-locked interior candidate. Do not publish until the final human content review and physical proof are complete.

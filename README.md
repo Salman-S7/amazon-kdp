@@ -70,4 +70,4 @@ See the roadmap before opening a new category.
 
 ## Production status
 
-- **A1 — Bible Word Search Large Print:** v2 retail interior generated — 132 pages, 80 puzzles, five-part reader journey, Bible-focus context, eight bonus challenges, enlarged solutions, and automated QA complete. Final human editorial review and physical proof remain. See `books/A1_bible_word_search/`.
+- **A1 — Bible Word Search Large Print:** v3 60-puzzle interior generated — 104 pages, five equal 12-puzzle sections, larger support typography, six differentiated Challenge/bonus puzzles, enlarged solutions, embedded fonts, closing reflection pages, and automated QA complete. Final human editorial review and physical proof remain. See `books/A1_bible_word_search/`.

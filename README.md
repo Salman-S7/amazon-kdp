@@ -67,3 +67,7 @@ Only after the first two product lines generate real data:
 - LitRPG / progression fantasy
 
 See the roadmap before opening a new category.
+
+## Production status
+
+- **A1 — Bible Word Search Large Print:** v1 interior proof generated; automated puzzle QA passed. See `books/A1_bible_word_search/` for production status and validation.

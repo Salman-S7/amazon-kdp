@@ -71,4 +71,4 @@ See the roadmap before opening a new category.
 ## Production status
 
 - **A1 — Bible Word Search Large Print:** v3 60-puzzle interior generated — 104 pages, five equal 12-puzzle sections, larger support typography, six differentiated Challenge/bonus puzzles, enlarged solutions, embedded fonts, closing reflection pages, and automated QA complete. Final human editorial review and physical proof remain. See `books/A1_bible_word_search/`.
-- **A2 — Women of the Bible Large Print Word Search:** production started — 60-puzzle / five-section editorial architecture locked as the working v1. Reference, context, and vocabulary dataset is next. See `books/A2_women_of_the_bible/`.
+- **A2 — Women of the Bible Large Print Word Search:** v1 60-puzzle retail interior generated — 104 pages, five equal 12-puzzle sections, 900 curated main answers, six Challenge bonus words, unique intended answer occurrences, enlarged solutions, embedded fonts, and full render/preflight QA complete. Human biblical/editorial review, cover, KDP Previewer, and physical proof remain. See `books/A2_women_of_the_bible/`.
